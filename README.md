@@ -4,6 +4,8 @@
 2. Write a java program to compute the sum of even digits in any input integer.
 3. Write a java program to display prime numbers between 1 and 100.
 4. Write a java program to display the following pattern
+
+```aidl
     *
     **
     ***
@@ -11,6 +13,7 @@
     ***
     **
     *
+```
 
 ## Notes
 
@@ -51,6 +54,8 @@ To run the program that return prime numbers between 1 and 100
 ```
 
 To run the program that return prime the pattern
+
+```aidl
     *
     **
     ***
@@ -58,6 +63,7 @@ To run the program that return prime the pattern
     ***
     **
     *
+```
 
 ```aidl
     javac Pattern.java
