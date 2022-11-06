@@ -3,6 +3,15 @@
 1. Write a java program to display the Fibonacci Series to the 10th term.
 2. Write a java program to compute the sum of even digits in any input integer.
 3. Write a java program to display prime numbers between 1 and 100.
+4. Write a java program to display the following pattern
+    *
+    **
+    ***
+    ****
+    ***
+    **
+    *
+
 
 ## Notes
 
@@ -38,3 +47,17 @@ To run the program that return prime numbers between 1 and 100
     javac Prime.java
     java Prime
 ```
+To run the program that return prime the pattern
+    *
+    **
+    ***
+    ****
+    ***
+    **
+    *
+
+```aidl
+    javac Pattern.java
+    java Pattern
+```
+
